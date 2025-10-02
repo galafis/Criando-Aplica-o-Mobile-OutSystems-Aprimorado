@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OutSystems Mobile App Simulation</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <header>
+            <h1>Mobile App</h1>
+            <button id="menu-button">☰</button>
+        </header>
+        <nav id="side-menu" class="hidden">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Profile</a></li>
+                <li><a href="#">Settings</a></li>
+                <li><a href="#">About</a></li>
+            </ul>
+        </nav>
+        <main>
+            <section id="home-screen" class="screen active">
+                <h2>Welcome to OutSystems Mobile!</h2>
+                <p>This is a simulation of a mobile application built with OutSystems principles.</p>
+                <button id="feature-button">Explore Feature</button>
+            </section>
+            <section id="feature-screen" class="screen">
+                <h2>Feature Details</h2>
+                <p>This section demonstrates a specific feature. Imagine data being loaded here.</p>
+                <div class="data-display">
+                    <p>Item 1: Value A</p>
+                    <p>Item 2: Value B</p>
+                    <p>Item 3: Value C</p>
+                </div>
+                <button id="back-button">Back to Home</button>
+            </section>
+        </main>
+        <footer>
+            <p>&copy; 2025 Gabriel Demetrios Lafis</p>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
