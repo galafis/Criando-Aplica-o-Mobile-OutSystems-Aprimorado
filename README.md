@@ -19,7 +19,9 @@ Este repositório apresenta uma simulação de uma aplicação mobile desenvolvi
 
 ### Arquitetura da Aplicação
 
-Um diagrama de arquitetura detalhado será inserido aqui, ilustrando os componentes e o fluxo de dados da aplicação mobile.
+![Diagrama de Arquitetura](assets/architecture_diagram.png)
+
+Este diagrama ilustra a arquitetura geral da aplicação mobile simulada, destacando a interação entre o frontend (Mobile App), a plataforma OutSystems e os serviços de backend.
 
 ### Como Usar
 
@@ -62,7 +64,9 @@ This repository presents a simulation of a mobile application developed using th
 
 ### Application Architecture
 
-A detailed architecture diagram will be inserted here, illustrating the components and data flow of the mobile application.
+![Architecture Diagram](assets/architecture_diagram.png)
+
+This diagram illustrates the general architecture of the simulated mobile application, highlighting the interaction between the frontend (Mobile App), the OutSystems platform, and backend services.
 
 ### How to Use
 
