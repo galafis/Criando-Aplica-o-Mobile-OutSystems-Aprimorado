@@ -2,7 +2,8 @@
 
 ## Creating a Mobile Application with OutSystems
 
-![Hero Image Placeholder](assets/hero-image.png)
+![Hero Image Placeholder](assets/hero-image.webp)
+
 
 --- 
 
@@ -52,6 +53,10 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para 
 --- 
 
 ## 🇬🇧 English
+
+![Hero Image Placeholder](assets/hero-image.webp)
+
+
 
 This repository presents a simulation of a mobile application developed using the principles and capabilities of the OutSystems platform. The goal is to demonstrate the ease and efficiency of low-code development for creating robust and responsive mobile applications for both iOS and Android.
 
