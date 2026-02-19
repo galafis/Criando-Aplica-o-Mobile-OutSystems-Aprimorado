@@ -1,0 +1,10 @@
+{
+  "name": "criando-aplica-o-mobile-outsystems-aprimorado",
+  "version": "1.0.0",
+  "description": "Este repositório apresenta a versão aprimorada de uma aplicação mobile de gerenciamento desenvolvida com os princípios e capacidades da plataforma **OutSystems**. O projeto **DIOGerenciamento** expand",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "license": "MIT"
+}
